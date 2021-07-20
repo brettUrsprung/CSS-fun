@@ -1,0 +1,10 @@
+#maskShape{
+    background-color: rgb(172, 9, 9);
+    position: absolute;
+    left: 1000px;
+    top: 300px;
+    width: 800px;
+    height: 800px;
+    border-radius: 50%
+}
+
