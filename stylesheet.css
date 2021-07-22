@@ -8,3 +8,10 @@
     border-radius: 50%
 }
 
+.curve {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    box-shadow: 15px 15px 0 0 red;
+    transform: rotate(255deg);
+  }

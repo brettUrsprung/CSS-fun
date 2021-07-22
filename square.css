@@ -1,0 +1,42 @@
+#bagel {
+    position: absolute;
+    height: 35rem;
+    width: 30rem;
+    left: 33rem;
+    top: 69rem;
+}
+
+.intro {
+    Position:absolute;
+    top: 45rem;
+    border: 10px solid;
+    width: 45rem;
+    height: 42rem;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.title {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.history {
+    width: 25rem;
+    height: 30rem;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.carousel {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+img {
+    margin: -250px 0px 0px 0px;
+}
+/*  ??????? */
+.carousel-control-next {
+    color: black;
+}
